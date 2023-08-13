@@ -3,6 +3,6 @@ import pandas as pd
 from zenml import step
 
 @step
-def evalute_model(df:pd.dataframe) -> None:
+def clean_df(df:pd.DataFrame) -> None:
     pass  
 
