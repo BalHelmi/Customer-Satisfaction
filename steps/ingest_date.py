@@ -1,4 +1,4 @@
-"""Fist Pipeline , we need to ingest the data , that's mean we read the data ad returns it"""
+"""First Pipeline , we need to ingest the data , that's mean we read the data ad returns it"""
 
 """Import Libreries"""
 
